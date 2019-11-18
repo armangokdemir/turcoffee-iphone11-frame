@@ -1,0 +1,568 @@
+
+
+.iphone11 {
+  width               : 100%;
+  min-width           : 414px;
+  height              : 100vh;
+  min-height          : 896px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(246, 246, 246, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.iphone11 .rectangle {
+  background-color    : rgba(236, 235, 235, 1.0);
+  top                 : 18px;
+  height              : 860px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .enlezzetlikahveler {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 470px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-SemiBold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(129, 165, 156, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 431px;
+  width               : 398px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  border-radius       : 15px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 430px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask .a100456 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 255px;
+  height              : 132px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : -13px;
+  -ms-transform       : rotate(-30deg); /* IE 9 */
+  -webkit-transform   : rotate(-30deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-30deg);
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask .a100456copy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 132px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : -118px;
+  -ms-transform       : rotate(-30deg); /* IE 9 */
+  -webkit-transform   : rotate(-30deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-30deg);
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask .a100456copy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -18px;
+  height              : 132px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  -ms-transform       : rotate(-30deg); /* IE 9 */
+  -webkit-transform   : rotate(-30deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-30deg);
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask .a100456copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 344px;
+  height              : 132px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : 251px;
+  -ms-transform       : rotate(-30deg); /* IE 9 */
+  -webkit-transform   : rotate(-30deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-30deg);
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask .a100456copy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 252px;
+  height              : 132px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : 410px;
+  -ms-transform       : rotate(-30deg); /* IE 9 */
+  -webkit-transform   : rotate(-30deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-30deg);
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask .a100456copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 163px;
+  height              : 132px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  -ms-transform       : rotate(-30deg); /* IE 9 */
+  -webkit-transform   : rotate(-30deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-30deg);
+}
+.iphone11 .a100456100456copy6100456copy7100456copy4100456copy5100456copy100456copy2mask .a100456copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 132px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : 306px;
+  -ms-transform       : rotate(-30deg); /* IE 9 */
+  -webkit-transform   : rotate(-30deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-30deg);
+}
+.iphone11 .rectanglecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 55px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 24px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .group .rectangle2 {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .group .rectanglecopy3 {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 18px;
+  height              : 6px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .group .rectanglecopy4 {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 9px;
+  height              : 6px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .rectangle1 {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 360px;
+  height              : 55px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .rectanglecopy {
+  background-color    : rgba(153, 221, 204, 1.0);
+  top                 : 647px;
+  height              : 55px;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .rectanglecopy6 {
+  background-color    : rgba(153, 221, 204, 1.0);
+  top                 : 793px;
+  height              : 55px;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .signupforturcoffe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 373px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-SemiBold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(129, 165, 156, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.iphone11 .showcoffees {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 661px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-SemiBold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(246, 246, 246, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.iphone11 .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 807px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-SemiBold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(246, 246, 246, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.iphone11 .rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : 97px;
+  position            : absolute;
+  margin              : 0;
+  left                : 252px;
+  border-radius       : 12px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(246, 246, 246, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .a23208 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 59px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .signup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(246, 246, 246, 1.0);
+  text-align          : center;
+  line-height         : 17.0px;
+}
+.iphone11 .a100turkishcoffees {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 95px;
+  height              : auto;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "BodoniSvtyTwoSCITCTT-Book", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(246, 246, 246, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.iphone11 .onedayalearnedpe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : auto;
+  width               : 363px;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-SemiBold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(246, 246, 246, 1.0);
+  text-align          : justify;
+  line-height         : 18.0px;
+}
+.iphone11 .tastethecoffeeswh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : auto;
+  width               : 367px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(122, 122, 122, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.iphone11 .foryourquestionsa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 762px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(122, 122, 122, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.iphone11 .showrecyclingpolic {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 856px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 153px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Baskerville-SemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(149, 180, 172, 1.0);
+  text-align          : center;
+  line-height         : 14.0px;
+}
+.iphone11 .a15307 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 708px;
+  height              : 56px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .a92134 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 532px;
+  height              : 56px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.iphone11 .a46080 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 857px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
